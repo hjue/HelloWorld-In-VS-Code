@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "iterator": "cpp",
+    "iostream": "cpp",
+    "istream": "cpp",
+    "string": "cpp"
+  }
+}
